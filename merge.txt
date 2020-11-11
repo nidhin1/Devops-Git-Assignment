@@ -1,0 +1,8 @@
+This is dome message to show merge conflict
+totally different from dev branch
+content to append
+
+
+
+
+
